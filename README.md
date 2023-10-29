@@ -1,25 +1,30 @@
-<h3> Olá! Eu sou o Leonardo 😉 </h3>
-<div align="center">
-  <a href="https://github.com/leolimaf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leolimaf&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolimaf&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+### Hey guys :wave:, I'm Leonardo!
+
+---
+
+I am a determined and forward-thinking .Net Developer, working and learning on a wide range of projects with the aim to further my skills. Proactive and adaptable, with a strong understanding and practical experience in the sustainable development of interoperable applications. Feel free to check out my repositories and get in touch.
+
+#### :chart: GitHub Stats
+![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leolimaf&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leolimaf&layout=compact&langs_count=7&theme=midnight-purple)
+
+---
   
-<h3>  Ferramentas e tecnologias que eu mais me identifico:</h3>
+#### :computer:  Main Tech Stack
 <div>
-  <img align="center" alt="C-Sharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="C-Sharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Amazon Web Services" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="C-Sharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">&nbsp;
+  <img align="center" alt="DotNet" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">&nbsp;
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">&nbsp;
+  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">&nbsp;
+  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">&nbsp;
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&nbsp;
+  <img align="center" alt="ReactJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;
+  <img align="center" alt="VS Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">&nbsp;
+  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">&nbsp;
+  <img align="center" alt="Oracle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">&nbsp;
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;
+  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">&nbsp;
+  <img align="center" alt="Amazon Web Services" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">&nbsp;
+  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">&nbsp;
 </div>
