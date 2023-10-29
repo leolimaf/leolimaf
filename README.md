@@ -4,13 +4,13 @@
 
 I am a determined and forward-thinking .Net Developer, working and learning on a wide range of projects with the aim to further my skills. Proactive and adaptable, with a strong understanding and practical experience in the sustainable development of interoperable applications. Feel free to check out my repositories and get in touch.
 
-#### :chart: GitHub Stats
+### :chart: GitHub Stats
 ![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leolimaf&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leolimaf&layout=compact&langs_count=7&theme=midnight-purple)
 
 ---
   
-#### :computer:  Main Tech Stack
+### :computer:  Main Tech Stack
 <div>
   <img align="center" alt="C-Sharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">&nbsp;
   <img align="center" alt="DotNet" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">&nbsp;
