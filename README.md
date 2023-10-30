@@ -1,8 +1,8 @@
-### Hey guys :wave:, I'm Leonardo!
+### Hey :wave:, I'm Leonardo!
 
 ---
 
-I am a determined and forward-thinking .Net Developer, working and learning on a wide range of projects with the aim to further my skills. Proactive and adaptable, with a strong understanding and practical experience in the sustainable development of interoperable applications. Feel free to check out my repositories and get in touch.
+I am a determined and forward-thinking .NET Developer, working and learning on a wide range of projects with the aim to further my skills. Proactive and adaptable, with a strong understanding and practical experience in the sustainable development of interoperable applications. Feel free to check out my repositories and get in touch.
 
 ### :chart: GitHub Stats
 ![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leolimaf&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)&nbsp;
