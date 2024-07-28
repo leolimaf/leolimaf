@@ -2,7 +2,9 @@
 
 ---
 
-I am a determined and forward-thinking .NET Developer, working and learning on a wide range of projects with the aim to further my skills. Proactive and adaptable, with a strong understanding and practical experience in the sustainable development of interoperable applications. Feel free to check out my repositories and get in touch.
+I am a determined and forward-thinking .NET Developer, working and learning on a wide range of projects with the aim to further my skills.
+
+Feel free to check out my repositories and get in touch.
 
 ### :chart: GitHub Stats
 ![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leolimaf&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)&nbsp;
@@ -20,7 +22,7 @@ I am a determined and forward-thinking .NET Developer, working and learning on a
   <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;
   <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&nbsp;
   <img align="center" alt="ReactJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;
-  <img align="center" alt="VS Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">&nbsp;
+  <img align="center" alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">&nbsp;
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">&nbsp;
   <img align="center" alt="Oracle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">&nbsp;
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;
